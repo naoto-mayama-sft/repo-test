@@ -4,5 +4,6 @@
 	  fetch="git://github.com/" />
   <default revision="master"
            remote="github" />
-  <project path="app" name="app" />
+  <project path="local1" name="naoto-mayama-sft/sandbox" />
+  <project path="local2" name="naoto-mayama-sft/sandbox2" />
 </manifest>
